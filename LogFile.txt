@@ -1,0 +1,3 @@
+﻿2021-07-26 21:25:20.4072|INFO|NlogProb.NLog|Sub method
+2021-07-26 21:25:20.4409|DEBUG|NlogProb.NLog|Debug Successful
+2021-07-26 21:25:20.4409|WARN|NlogProb.NLog|First Number or Second Number is zero.
